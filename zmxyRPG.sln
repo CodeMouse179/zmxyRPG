@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zmxyRPG", "zmxyRPG\zmxyRPG.vcxproj", "{208DD6D5-780B-4402-88E1-37CE2F6687AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{208DD6D5-780B-4402-88E1-37CE2F6687AE}.Debug|x64.ActiveCfg = Debug|x64
+		{208DD6D5-780B-4402-88E1-37CE2F6687AE}.Debug|x64.Build.0 = Debug|x64
+		{208DD6D5-780B-4402-88E1-37CE2F6687AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{208DD6D5-780B-4402-88E1-37CE2F6687AE}.Debug|x86.Build.0 = Debug|Win32
+		{208DD6D5-780B-4402-88E1-37CE2F6687AE}.Release|x64.ActiveCfg = Release|x64
+		{208DD6D5-780B-4402-88E1-37CE2F6687AE}.Release|x64.Build.0 = Release|x64
+		{208DD6D5-780B-4402-88E1-37CE2F6687AE}.Release|x86.ActiveCfg = Release|Win32
+		{208DD6D5-780B-4402-88E1-37CE2F6687AE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80DDF0BB-0C0F-465A-8690-9B62F600F090}
+	EndGlobalSection
+EndGlobal
